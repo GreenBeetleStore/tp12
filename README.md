@@ -8,8 +8,13 @@ https://cours-info.iut-bm.univ-fcomte.fr/upload/supports/S3/web/cot%20serveur/TP
 
 Objectifs
 
-  • Définir des en-têtes HTTP avec Helmet
-  • Protection contre les attaques de pollution des paramètres HTTP
-  • Prévention de la pollution JSON
-  • Prévention des attaques XSS
-  • Protection contre les attaques CSRF
+  • Définir des en-têtes HTTP avec Helmet.
+  
+  • Protection contre les attaques de pollution des paramètres HTTP.
+  
+  • Prévention de la pollution JSON.
+  
+  • Prévention des attaques XSS.
+  
+  • Protection contre les attaques CSRF.
+  
